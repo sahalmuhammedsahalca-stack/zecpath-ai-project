@@ -1,0 +1,9 @@
+{
+    "candidate_id": "CAND001",
+    "job_id": "JOB001",
+    "question_id": "Q001",
+    "timestamp": "2026-08-05T10:00:00",
+    "confidence": 0.96,
+    "question": "Tell me about yourself.",
+    "answer": "My name is Muhammed Sahal. I have two years of experience."
+}

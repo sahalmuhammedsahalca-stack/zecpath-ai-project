@@ -1,0 +1,50 @@
+Data Analyst/Business Analyst
+MUHAMMED SAHAL CA
+Ernakulam, Kerala
+sahalmuhammedsahalca@gmail.com +91 8138809977
+LinkedIn: https://www.linkedin.com/in/muhammed-sahal-ca-6a567b309/
+PROFESSIONAL SUMMARY
+Data Analyst with 2+ years of experience in data analysis, reporting, and dashboard
+development. Skilled in SQL, Python, Power BI, and Excel with strong expertise in data
+cleaning, visualization, and business intelligence. Proven ability to analyze large datasets,
+identify trends, and deliver actionable insights to improve business performance and decision-
+making.
+PROFESSIONAL EXPERIENCE
+Technical Support Executive (Data & Reporting Focus)
+Leadsndeals Interactive Technologies – Kochi
+Feb 2024 – May 2025
+• Analyzed customer issues, application logs, and ticket data to identify trends and root
+causes
+• Cleaned and processed large datasets (1K+ records) using Excel for reporting and
+analysis
+• Built interactive Excel dashboards to track KPIs like ticket volume and resolution time
+• Improved issue resolution efficiency by providing data-driven insights to internal teams
+• Generated performance reports to support operational decision-making
+Data Analyst Intern
+STC Technologies – Kochi
+Aug 2025 – Feb 2026
+• Cleaned, validated, and analyzed structured datasets using SQL and Excel
+• Developed Power BI dashboards to monitor sales trends and key business metrics
+• Performed Exploratory Data Analysis (EDA) to identify patterns and insights
+• Assisted in creating reports that supported business intelligence and strategy
+SKILLS
+Programming & Tools
+• SQL
+• Python (Pandas, NumPy)
+• Power BI
+• Microsoft Excel (Pivot Tables, VLOOKUP, Dashboards)
+• Google Sheets
+• MySQL
+Analytics & Business Skills
+• Data Cleaning & Data Preprocessing
+• Data Visualization
+• Dashboard Development
+• KPI Reporting
+• Exploratory Data Analysis (EDA)
+• Business Intelligence
+• Basic Data Modeling
+EDUCATION
+Indira Gandhi National Open University (IGNOU) – Kochi
+Postgraduate Program in Political Science (Pursuing)
+St. Peter’s College, Kolenchery
+Bachelor’s Degree in Political Science (2020 – 2022)

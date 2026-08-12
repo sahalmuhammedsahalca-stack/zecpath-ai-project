@@ -1,0 +1,31 @@
+{
+    "experience": [
+        {
+            "job_title": "Technical Support Executive (Data & Reporting Focus)",
+            "company": "Leadsndeals Interactive Technologies \u2013 Kochi",
+            "duration": "Feb 2024 \u2013 May 2025"
+        },
+        {
+            "job_title": "Data Analyst Intern",
+            "company": "STC Technologies \u2013 Kochi",
+            "duration": "Aug 2025 \u2013 Feb 2026"
+        }
+    ],
+    "total_experience": {
+        "total_months": 21,
+        "experience": "1 Years 9 Months"
+    },
+    "employment_gaps": [
+        3
+    ],
+    "role_relevance": [
+        {
+            "job_title": "Technical Support Executive (Data & Reporting Focus)",
+            "score": 70
+        },
+        {
+            "job_title": "Data Analyst Intern",
+            "score": 100
+        }
+    ]
+}

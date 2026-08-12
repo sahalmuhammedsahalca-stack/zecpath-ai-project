@@ -1,0 +1,29 @@
+Job Title: Data Analyst
+
+Company: ABC Technologies
+
+Location: Kochi, Kerala
+
+Experience Required:
+2-4 years
+
+Education:
+Bachelor's Degree in Computer Science, Information Technology, Statistics, Mathematics, or a related field.
+
+Required Skills:
+- SQL
+- Python
+- Power BI
+- Microsoft Excel
+- Data Analysis
+- Data Visualization
+
+Responsibilities:
+- Analyze business data and generate reports.
+- Build dashboards using Power BI.
+- Perform data cleaning and preprocessing.
+- Work with stakeholders to understand business requirements.
+- Prepare KPI reports and insights.
+
+Employment Type:
+Full Time

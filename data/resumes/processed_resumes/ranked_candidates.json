@@ -1,0 +1,22 @@
+[
+    {
+        "name": "John",
+        "final_score": 92.5,
+        "status": "Shortlisted"
+    },
+    {
+        "name": "Muhammed Sahal",
+        "final_score": 88.82,
+        "status": "Shortlisted"
+    },
+    {
+        "name": "Alice",
+        "final_score": 78.4,
+        "status": "Review"
+    },
+    {
+        "name": "David",
+        "final_score": 65.3,
+        "status": "Rejected"
+    }
+]

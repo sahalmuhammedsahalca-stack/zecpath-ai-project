@@ -1,0 +1,41 @@
+{
+    "name": "John Doe",
+    "email": "john@email.com",
+    "phone": "9876543210",
+    "location": "Kochi",
+
+    "skills": [
+        "Python",
+        "SQL",
+        "Machine Learning"
+    ],
+
+    "education": [
+        {
+            "degree": "B.Tech Computer Science",
+            "college": "ABC College",
+            "year": "2023"
+        }
+    ],
+
+    "experience": [
+        {
+            "company": "XYZ Technologies",
+            "designation": "Python Developer",
+            "years": "2"
+        }
+    ],
+
+    "certifications": [
+        "AWS Cloud"
+    ],
+
+    "projects": [
+        "AI Resume Screening System"
+    ],
+
+    "languages": [
+        "English",
+        "Malayalam"
+    ]
+}

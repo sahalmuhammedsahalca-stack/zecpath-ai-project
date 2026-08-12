@@ -1,0 +1,44 @@
+{
+    "name": "Muhammed Sahal Ca",
+    "email": "sahalmuhammedsahalca@gmail.com",
+    "phone": "+91 8138809977",
+    "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Microsoft Excel",
+        "Google Sheets",
+        "MySQL",
+        "Pandas",
+        "NumPy",
+        "Data Cleaning",
+        "Data Visualization",
+        "Dashboard Development",
+        "Business Intelligence",
+        "EDA"
+    ],
+    "education": [
+        "Indira Gandhi National Open University (IGNOU) \u2013 Kochi",
+        "St. Peter\u2019s College, Kolenchery",
+        "Bachelor\u2019s Degree in Political Science (2020 \u2013 2022)"
+    ],
+    "experience": [
+        "Technical Support Executive (Data & Reporting Focus)",
+        "Leadsndeals Interactive Technologies \u2013 Kochi",
+        "Feb 2024 \u2013 May 2025",
+        "\u2022 Analyzed customer issues, application logs, and ticket data to identify trends and root",
+        "causes",
+        "\u2022 Cleaned and processed large datasets (1K+ records) using Excel for reporting and",
+        "analysis",
+        "\u2022 Built interactive Excel dashboards to track KPIs like ticket volume and resolution time",
+        "\u2022 Improved issue resolution efficiency by providing data-driven insights to internal teams",
+        "\u2022 Generated performance reports to support operational decision-making",
+        "Data Analyst Intern",
+        "STC Technologies \u2013 Kochi",
+        "Aug 2025 \u2013 Feb 2026",
+        "\u2022 Cleaned, validated, and analyzed structured datasets using SQL and Excel",
+        "\u2022 Developed Power BI dashboards to monitor sales trends and key business metrics",
+        "\u2022 Performed Exploratory Data Analysis (EDA) to identify patterns and insights",
+        "\u2022 Assisted in creating reports that supported business intelligence and strategy"
+    ]
+}
