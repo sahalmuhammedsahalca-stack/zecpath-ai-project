@@ -1,0 +1,43 @@
+{
+  "pipeline": [
+    "resume_upload",
+    "resume_parsing",
+    "ats_scoring",
+    "screening",
+    "hr_interview",
+    "technical_interview",
+    "behavioral_evaluation",
+    "integrity_evaluation",
+    "unified_scoring",
+    "final_recommendation"
+  ],
+  "candidates": {
+    "CAND001": {
+      "ats_score": 92,
+      "screening_score": 90,
+      "hr_score": 88,
+      "technical_score": 91,
+      "behavioral_score": 86,
+      "integrity_risk": 5,
+      "final_recommendation": "Highly Recommended"
+    },
+    "CAND002": {
+      "ats_score": 76,
+      "screening_score": 72,
+      "hr_score": 75,
+      "technical_score": 70,
+      "behavioral_score": 72,
+      "integrity_risk": 10,
+      "final_recommendation": "Recommended"
+    },
+    "CAND003": {
+      "ats_score": 42,
+      "screening_score": 48,
+      "hr_score": 65,
+      "technical_score": 45,
+      "behavioral_score": 62,
+      "integrity_risk": 15,
+      "final_recommendation": "Needs Review"
+    }
+  }
+}

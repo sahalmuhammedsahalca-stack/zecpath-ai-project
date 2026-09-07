@@ -1,0 +1,23 @@
+{
+  "CAND001": {
+    "hr_score": 88,
+    "technical_score": 91,
+    "behavioral_score": 86,
+    "integrity_risk": 5,
+    "interview_status": "Passed"
+  },
+  "CAND002": {
+    "hr_score": 75,
+    "technical_score": 70,
+    "behavioral_score": 72,
+    "integrity_risk": 10,
+    "interview_status": "Passed"
+  },
+  "CAND003": {
+    "hr_score": 65,
+    "technical_score": 45,
+    "behavioral_score": 62,
+    "integrity_risk": 15,
+    "interview_status": "Needs Review"
+  }
+}

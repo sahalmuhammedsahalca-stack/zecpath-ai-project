@@ -1,0 +1,17 @@
+{
+  "CAND001": {
+    "screening_score": 90,
+    "status": "Passed",
+    "reason": "Strong skills and relevant experience"
+  },
+  "CAND002": {
+    "screening_score": 72,
+    "status": "Passed",
+    "reason": "Meets basic requirements with limited experience"
+  },
+  "CAND003": {
+    "screening_score": 48,
+    "status": "Review",
+    "reason": "Technical requirements are only partially satisfied"
+  }
+}

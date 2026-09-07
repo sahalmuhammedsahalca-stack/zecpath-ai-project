@@ -1,0 +1,34 @@
+{
+  "CAND001": {
+    "job": "Data Analyst",
+    "ats_score": 92,
+    "classification": "Highly Recommended",
+    "matched_skills": [
+      "SQL",
+      "Python",
+      "Pandas",
+      "Excel",
+      "Power BI",
+      "DAX"
+    ]
+  },
+  "CAND002": {
+    "job": "Data Analyst",
+    "ats_score": 76,
+    "classification": "Recommended",
+    "matched_skills": [
+      "Excel",
+      "SQL",
+      "Python",
+      "Power BI"
+    ]
+  },
+  "CAND003": {
+    "job": "Data Analyst",
+    "ats_score": 42,
+    "classification": "Not Recommended",
+    "matched_skills": [
+      "Excel"
+    ]
+  }
+}
